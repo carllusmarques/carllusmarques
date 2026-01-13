@@ -2,7 +2,12 @@
 
 ###
 
-<p align="left">DESENVOLVERDOR DELPHI/PHP/LARAVEL<br>DESELVOLVEDOR FULL STACK</p>
+<p align="left">
+
+Sou desenvolvedor Sênior com mais de 17 anos de experiência em Análise, Desenvolvimento e Manutenção de Sistemas. Iniciei minha carreira como estagiário, consolidando uma sólida base em desenvolvimento desktop utilizando Delphi como ferramenta principal e diversos bancos de dados SQL (SQL Server, Oracle, Firebird).
+
+Nos últimos 7 anos, realizei uma transição bem-sucedida, focando integralmente no desenvolvimento Web. Possuo ampla proficiência em back-end com PHP (incluindo Laravel para APIs) e em front-end com Angular/AngularJS, JavaScript, HTML e CSS. Minhas experiências recentes incluem trabalhos com MySQL e PL/SQL.
+</p>
 
 ###
 
